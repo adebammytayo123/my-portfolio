@@ -1,7 +1,9 @@
 :root  {
-  --headerBlue: #142452;
-  --mainBlue: #1E315F;
+  --mainBlue: #142452;
+  --headerBlue: #1E315F;
   --mainWhite: #ffffff;
+  --mainPeach: #F77E69;
+  --lightPeach: #f0bdb4;
 }
 
 html, body {
