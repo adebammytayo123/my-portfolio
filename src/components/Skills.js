@@ -75,7 +75,8 @@ const Skills = () => {
 };
 
 const SkillsStyled = styled.div`
-  height: 60vh;
+  height: 50vh;
+  padding-top: 15rem;
   @media ${devices.mobile} {
     height: auto;
     padding-top: 5rem;
@@ -120,8 +121,8 @@ const FirstSet = styled.div`
   justify-content: space-evenly;
   margin-bottom: 4rem;
   svg {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
   }
   @media ${devices.mobile} {
     svg {

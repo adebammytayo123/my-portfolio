@@ -40,7 +40,7 @@ const Aboutme = () => {
 
 const AboutmeStyled = styled.div`
   padding-top: 15rem;
-  height: 90vh;
+  height: 50vh;
   color: rgb(160, 174, 192);
   @media ${devices.mobile} {
     height: auto;
@@ -92,7 +92,7 @@ const ImageDiv = styled.div`
   @media ${devices.mobile} {
     width: 100% !important;
     text-align: center;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
   }
 `;
 

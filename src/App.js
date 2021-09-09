@@ -3,6 +3,7 @@ import Header from './components/Header';
 import AboutMe from './components/Aboutme';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
+import Contacts from './components/Contactme';
 
 
 function App() {
@@ -11,6 +12,8 @@ function App() {
       <Header />
       <AboutMe />
       <Skills />
+      <Projects />
+      <Contacts />
     </div>
   );
 }
